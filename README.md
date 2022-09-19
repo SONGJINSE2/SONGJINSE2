@@ -10,6 +10,6 @@
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/npm-CB3837style=flat-square&logo=npm&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/express-#000000style=flat-square&logo=express&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/express-000000style=flat-square&logo=express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7style=flat-square&logo=Sequelize&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1Estyle=flat-square&logo=Figma&logoColor=white"/></a>
