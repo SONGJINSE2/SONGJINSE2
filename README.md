@@ -16,4 +16,5 @@
 <img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/React-F7DF1E?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Sass-E34F26?style=flat-square&logo=Git&logoColor=white"/></a>
