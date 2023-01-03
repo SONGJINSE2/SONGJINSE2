@@ -1,6 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:BB2649,20:BB8326,40:73BB26,50:26BB58,70:269EBB,90:2E26BB,100:AE26BB&text=Woojoon%20Song%20GitHub&fontSize=50&animation=fadeIn&fontAlign=65)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5CD1E5,50:00D8FF,100:5CD1E5&text=Woojoon%20Song%20GitHub&fontSize=35&animation=fadeIn&fontAlign=75&stroke=353535&strokeWidth=2&fontColor=EAEAEA&)
 
 <p align=center>🛠Tech Stack🛠</p><br><br>
 <p align=center>
