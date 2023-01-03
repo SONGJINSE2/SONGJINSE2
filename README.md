@@ -23,9 +23,11 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </p>
+<br><br>
 
+<br>
 
-
+![Woojoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SONGJINSE2)
 
 
 
