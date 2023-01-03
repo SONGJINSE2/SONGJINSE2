@@ -1,4 +1,6 @@
-<p align=center># Woojoon Song</p>
+
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:BB2649,20:BB8326,40:73BB26,50:26BB58,70:269EBB,90:2E26BB,100:AE26BB&text=Woojoon%20Song%20GitHub&fontSize=50&animation=fadeIn&fontAlign=65)
+
 
 <p align=center>🛠Tech Stack🛠</p><br><br>
 <p align=center>
@@ -22,6 +24,8 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </p>
+
+
 
 
 
