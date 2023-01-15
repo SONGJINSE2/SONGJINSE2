@@ -29,7 +29,7 @@
 
 <p align=center>
     <a align="center" href="https://github.com/SONGJINSE2/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SONGJINSE2&&card_width=400" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=SONGJINSE2&&card_width=390" />
     </a>
     <a align="center" href="https://github.com/SONGJINSE2/convoychat">
        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SONGJINSE2&layout=compact" />
