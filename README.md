@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:CEFBC9,50:B7F0B1,100:86E57F&text=Woojoon%20Song%20GitHub&fontSize=35&animation=fadeIn&fontAlign=75&stroke=353535&strokeWidth=2&fontColor=EAEAEA&)
 
-<p align=center>🛠Tech Stack🛠</p><br><br>
+<p align=center >🛠Tech Stack🛠</p><br><br>
 <p align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/ { width="70" height="20"}>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/ { width="70" height="20"}>
